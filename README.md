@@ -56,7 +56,7 @@ git clone https://github.com/nenad-zaric/ReORG
 python -m pip install watchdog
 python -m pip install python-magic
 ```
-If you get ```sh ImportError: failed to find libmagic. Check your installation ``` try:
+If you get ```ImportError: failed to find libmagic. Check your installation ``` try:
 ```sh
 python -m pip uninstall python-magic
 python -m pip install python-magic-bin==0.4.14
