@@ -7,7 +7,7 @@ import time
 class CustomHandler(FileSystemEventHandler):
     def on_modified(self, event):
         for file in os.listdir(source):
-            if '.crdownload' in file:
+            if '.crdownload' in file or '.tmp' in file:
                 print('Waiting for download to finish...')
                 time.sleep(5)
                 continue
@@ -22,22 +22,10 @@ class CustomHandler(FileSystemEventHandler):
                 destination_file_path = destination_file_path + '/' + file
                 os.replace(source_file_path,destination_file_path)
                 print(destination_file_path+' reorganized')
-            except IsADirectoryError:
+            except:
                 pass
             
-def get_download_path():
-    """Returns the default downloads path for linux or windows"""
-    if os.name == 'nt':
-        import winreg
-        sub_key = r'SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders'
-        downloads_guid = '{374DE290-123F-4565-9164-39C4925E467B}'
-        with winreg.OpenKey(winreg.HKEY_CURRENT_USER, sub_key) as key:
-            location = winreg.QueryValueEx(key, downloads_guid)[0]
-        return location
-    else:
-        return os.path.join(os.path.expanduser('~'), 'Downloads')
-
-source = get_download_path()
+source = os.path.join(os.path.expanduser('~'), 'Downloads')
 print(source)
 event_handler = CustomHandler()
 observer = Observer()
