@@ -29,9 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+Reorg is a small python script that organizes your downloads directory by filetype. Feel free to contribute if you want.
 
 
 ### Built With
