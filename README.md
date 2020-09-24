@@ -22,9 +22,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
-* [License](#license)
 * [Contact](#contact)
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -64,19 +62,12 @@ python -m pip uninstall python-magic
 python -m pip install python-magic-bin==0.4.14
 ```
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 Nenad Zaric - [@AnunnakiNenad](https://twitter.com/AnunnakiNenad) - nzaric31@gmail.com
 
-Project Link: [https://github.com/nenad-zaric/ReORG](https://github.com/nenad-zaric/ReORG)
+Project Link: [https://github.com/nenad-zaric/ReORG](https://github.com/nenad-zaric/reorg)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
