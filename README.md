@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Nenad Zaric - [@AnunnakiNenad](https://twitter.com/AnunnakiNenad) - nzaric31@gmail.com
 
-Project Link: [https://github.com/nenad-zaric/ReORG](https://github.com/nenad-zaric/ReORG)
+Project Link: [https://github.com/nenad-zaric/ReORG](https://github.com/nenad-zaric/reorg)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
