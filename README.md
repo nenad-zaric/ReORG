@@ -21,9 +21,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
-* [License](#license)
 * [Contact](#contact)
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -57,13 +55,6 @@ git clone https://github.com/nenad-zaric/ReORG
 python -m pip install watchdog
 python -m pip install python-magic
 ```
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
