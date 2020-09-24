@@ -4,19 +4,11 @@
     <img src="images/logo.png" alt="Logo" width="256" height="128">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">reorg</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Python script for organizing downloads directory
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </p>
 
