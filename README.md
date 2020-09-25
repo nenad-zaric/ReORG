@@ -30,6 +30,7 @@
 Reorg is a small python script that organizes your downloads directory by filetype. Feel free to contribute if you want.
 
 Tested on:
+<br/>
 Kubuntu 20.04.1 LTS
 <br/>
 Windows 10 Pro
