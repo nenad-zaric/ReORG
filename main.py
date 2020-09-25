@@ -7,7 +7,7 @@ import time
 class CustomHandler(FileSystemEventHandler):
     def on_modified(self, event):
         for file in os.listdir(source):
-            if '.crdownload' in file or '.tmp' in file:
+            if '.crdownload' in file or '.tmp' in file or '.part' in file:
                 print('Waiting for download to finish...')
                 time.sleep(5)
                 continue

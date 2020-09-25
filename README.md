@@ -9,8 +9,6 @@
   <p align="center">
     Python script for organizing downloads directory
     <br />
-    IMPORTANT: For now works only with chrome
-    <br />
   </p>
 </p>
 
