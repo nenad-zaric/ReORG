@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/nenad-zaric/reorg">
     <img src="images/logo.png" alt="Logo" width="256" height="128">
   </a>
 
