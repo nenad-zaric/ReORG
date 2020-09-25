@@ -8,7 +8,7 @@
 
   <p align="center">
     Python script for organizing downloads directory
-    IMPORTANT: For now works only with chrome
+    \nIMPORTANT: For now works only with chrome
     <br />
   </p>
 </p>
