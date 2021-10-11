@@ -39,7 +39,6 @@ Windows 10 Pro
 ### Built With
 
 * Python 3.8
-* Python modules:
     * Watchdog
     * python-magic
 
