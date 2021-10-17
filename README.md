@@ -69,7 +69,7 @@ python -m pip install python-magic-bin==0.4.14
 <!-- CONTACT -->
 ## Contact
 
-Nenad Zaric - [@AnunnakiNenad](https://twitter.com/AnunnakiNenad) - nzaric31@gmail.com
+Nenad Zaric - nzaric31@gmail.com
 
 Project Link: [https://github.com/nenad-zaric/ReORG](https://github.com/nenad-zaric/reorg)
 
